@@ -1,0 +1,8 @@
+/*we use {import './styles.css'} to import styles.css in greetings.js.
+we will write import './styles.css in greetings.js files.*/
+.Header{
+    padding: 20px;
+    color: blue;
+    background-color: chartreuse;
+    border: 1px solid black;
+}
